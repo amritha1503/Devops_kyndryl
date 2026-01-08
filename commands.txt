@@ -4,4 +4,4 @@ git Status - to check the status
 git commit -m "change1" 
 git commit -m "change 1" - moved to local repository 
 git push --set-upstream git@github.com:amritha1503/Learning.git
-to try version
+git pull git@github.com:amritha1503/Learning.git
