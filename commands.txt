@@ -1,0 +1,7 @@
+git init
+git add commands.txt - Moved to staging area
+git Status - to check the status 
+git commit -m "change1" 
+git commit -m "change 1" - moved to local repository 
+git push --set-upstream git@github.com:amritha1503/Learning.git
+
