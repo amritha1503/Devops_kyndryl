@@ -5,3 +5,6 @@ git commit -m "change1"
 git commit -m "change 1" - moved to local repository 
 git push --set-upstream git@github.com:amritha1503/Learning.git
 git pull git@github.com:amritha1503/Learning.git
+git branch -m dev  -- creates dev branch 
+git branch -- it will list branch 
+
